@@ -51,3 +51,6 @@ theme = "hugo-universal-theme"
 
   # Format dates with Go's time formatting
   date_format = "January 2, 2006"
+
+[markup.goldmark.renderer]
+    unsafe = true
