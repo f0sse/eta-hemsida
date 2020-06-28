@@ -1,5 +1,7 @@
 jQuery(document).ready(function(){
 
+  $('#presentation-search-input').focus();
+
   $('#presentation-search-input').on('keypress', function (e) {
     $('#presentation-search-input').removeAttr('style');
 
@@ -24,6 +26,9 @@ jQuery(document).ready(function(){
            $('#presentation-item-status').text(item.status);
            $('#presentation-item').show();
          }
+
+         $('#presentation-search-input').val('');
+
        });
      }
    }
