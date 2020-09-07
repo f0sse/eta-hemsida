@@ -1,8 +1,8 @@
-addressName = "Betonghallen, Chalmers"
-address = "Sven Hultins gata 8, Gothenburg"
-coordinate = ["57.686717","11.977651"]
+addressName = "To be announced"
+address = "To be announced"
+coordinate = ["",""]
 
-date = "2019-12-07T13:00:00"
-ticketRelease = "2019-12-07T09:00:00"
+date = "2020-12-05T13:00:00"
+ticketRelease = "2019-12-05T09:00:00"
 
 jumbotronImg = "/img/auctionHeader.jpg"
