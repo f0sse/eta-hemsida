@@ -11,7 +11,7 @@ draft: false
 {{< features >}}
 
 {{< backgroundBanner title="electronics auction" icon="fa fa-gavel" img="img/auctionHeader.jpg" url="/auction" buttonText="See more" >}}
-ETA's annual auction is held the 7th of December 2019
+ETA's annual auction is held the 5th of December 2020. <br>Due to COVID-19 this year's auction is provided digitally.
 {{< /backgroundBanner >}}
 
 {{< sectionLargeText title="Become a member" >}}
