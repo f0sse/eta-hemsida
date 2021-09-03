@@ -10,12 +10,7 @@ layout: "home"
 
 <!-- Information about date and location is automatically added in the shortcode. This is updated in the auction configuration file. -->
 {{< auction/auctionDetails >}}
-**Due to COVID-19 this year's auction will be held digitally through Tradera.**
-
-
 Every year ETA arranges an auction where ham radio equipment, electronics components, lab equipment mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to  support the student association's economy.
-
-
 {{< /auction/auctionDetails >}}
 
 <!-- The auction info (during the auction and rules) is directly written in the shortcode as markdown doesn't support columns. -->
