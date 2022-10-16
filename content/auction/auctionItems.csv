@@ -1,6 +1,6 @@
 Title,Description,Status,Category,Location,ID
 Oscilloskop HP54600B,100MHz b/w 2 Kanaler,Fungerar,Instrument,B01,2022_00000
-Poynting Antenn,Antagligen for anvandning med mobilnatverk,_Otestad,Radio,C01,2022_00001
+Poynting Antenn,Antagligen for anvandning med mobilnatverk,Otestad,Radio,C01,2022_00001
 HP 53131A Universal Counter,225MHz,Fungerar,Instrument,B01,2022_00002
 Anritsu Universal Test Fixture,Model 3680-20,Fungerar,Gerät,B01,2022_00003
 Benchtop Ionizer,Desco flakt funkar vet inte om resten,Lyser,Gerät,C01,2022_00006
@@ -10,64 +10,64 @@ Konstig våg,Varkar mäta någont vikt,Lyser,Instrument,C01,2022_00009
 Variac 0-270V,HSN0303 13A,Fungerar,Power supply,B01,2022_00010
 Stroboskop,Funkar som tachometer,Fungerar,Gerät,B01,2022_00012
 S-video kamera,Verkar vara i bra skick,Fungerar,Video,C01,2022_00013
-Precision capacitor 1100pF,Verkar vara i bra skick,_Otestad,Gerät,B01,2022_00014
-Knappsats,Många typer ganska många gänns som riktigt högkvalitativa grejer,_Otestad,Misc,C01,2022_00015
-Clamp meter, ,_Otestad,Gerät,C01,2022_00016
-batterier,Ser ut som lithium-ion,_Otestad,Gerät,C01,2022_00017
+Precision capacitor 1100pF,Verkar vara i bra skick,Otestad,Gerät,B01,2022_00014
+Knappsats,Många typer ganska många gänns som riktigt högkvalitativa grejer,Otestad,Misc,C01,2022_00015
+Clamp meter, ,Otestad,Gerät,C01,2022_00016
+batterier,Ser ut som lithium-ion,Otestad,Gerät,C01,2022_00017
 Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Annat,Radio,C01,2022_00018
 Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Annat,Radio,C01,2022_00019
-Logic Troubleshooting Kit,Ingång saknar clips,_Otestad,Instrument,C01,2022_00020
+Logic Troubleshooting Kit,Ingång saknar clips,Otestad,Instrument,C01,2022_00020
 Stag SE6T Uv Eraser,Skärmen sätts på,Lyser,Gerät,C01,2022_00021
-Gerät,28 Ohm 65 A ,_Otestad,Gerät,C01,2022_00022
-RF wattmeter, ,_Otestad,Radio,C01,2022_00023
-Step down converter,AC 230 till AC 110 800W Amerkanska uttag,_Otestad,Gerät,B01,2022_00026
+Gerät,28 Ohm 65 A ,Otestad,Gerät,C01,2022_00022
+RF wattmeter, ,Otestad,Radio,C01,2022_00023
+Step down converter,AC 230 till AC 110 800W Amerkanska uttag,Otestad,Gerät,B01,2022_00026
 Leader LBO-522 oscillocope + function gen.,Oskilloskop med funktions generator. Kanal ett fungerar fick inte kanal 2 att fungera. Fick inte heller igång funktions generatorn.,Lyser,Instrument,C01,2022_00027
 500W ATX PSU,OCZ500MXSP,Lyser,Power supply,C01,2022_00031
 Universalräknare SC-7203,Kanal A fungerar B & C otestad,Fungerar,Instrument,A01,2022_00032
 Dynavox stereo hi-fi amplifier, ,Lyser,Video,B01,2022_00034
-Spotlight galvanometer, ,_Otestad,Gerät,C01,2022_00035
+Spotlight galvanometer, ,Otestad,Gerät,C01,2022_00035
 servogor 460 datalogger,Verkar fungera ok 4 kanaler,Fungerar,Gerät,C01,2022_00036
 Marconi FM/AM modulation meter,Lyser,Lyser,Instrument,C01,2022_00037
-Three Keyboards,IBM - VICTOR - TRANFOR,_Otestad,Computer,C01,2022_00038
+Three Keyboards,IBM - VICTOR - TRANFOR,Otestad,Computer,C01,2022_00038
 Elevation Indicator,Kenpro KR/500B,Lyser,Radio,C01,2022_00039
 General KDE 821,Antagligen en terminal 2x DB25 pa baksidan,Lyser,Gerät,C01,2022_00040
 Network finder,Wi-net window,Lyser,Computer,C01,2022_00041
-IC assortment,Audio and power,_Otestad,Component,C01,2022_00042
+IC assortment,Audio and power,Otestad,Component,C01,2022_00042
 Handbook of Chemistry and physics,Går för 2230 ny i bra skick,Fungerar,Misc,A01,2022_00043
 Poker set,2x decks + markers,Fungerar,Gerät,B01,2022_00044
 FSP datonataggregat,Verkar fungera utan problem,Fungerar,Power supply,B01,2022_00045
-TLS3001,Led strip,_Otestad,Misc,C01,2022_00046
-TLS3001,Led strip,_Otestad,Gerät,C01,2022_00048
-Commodore 64, ,_Otestad,Nostalgia,B01,2022_00049
-Commodore 64, ,_Otestad,Nostalgia,B01,2022_00050
+TLS3001,Led strip,Otestad,Misc,C01,2022_00046
+TLS3001,Led strip,Otestad,Gerät,C01,2022_00048
+Commodore 64, ,Otestad,Nostalgia,B01,2022_00049
+Commodore 64, ,Otestad,Nostalgia,B01,2022_00050
 Anslut avfuktare,Kompressorn later ok lyser upp annars,Fungerar,Gerät,B01,2022_00052
-Commodore Datassette,Eject knappen funkar inte,_Otestad,Gerät,C01,2022_00053
+Commodore Datassette,Eject knappen funkar inte,Otestad,Gerät,C01,2022_00053
 HP8564E,Spektrumanalysator 30Hz-40GHz testad av SA6JKK,Fungerar,Instrument,A01,2022_00054
 RG58A-U Triax,mer än 50m kvar antagligen,Annat,Misc,B01,2022_00055
-Cool låda, ,_Otestad,Gerät,C01,2022_00056
+Cool låda, ,Otestad,Gerät,C01,2022_00056
 Super boxer fan,230-fläkt,Fungerar,Gerät,C01,2022_00057
-Rotary encoder c.a. 300st,Känns nice klickar c.a. 32 steps,_Otestad,Component,C01,2022_00058
+Rotary encoder c.a. 300st,Känns nice klickar c.a. 32 steps,Otestad,Component,C01,2022_00058
 Antennrotordrivare,styr azimuth motorn. har minnesfunktiner samt rotationsbegränsningsfunktioner,Lyser,Radio,C01,2022_00059
 pincett lödstation,har temperaturkontroll samt pedal,Fungerar,Gerät,C01,2022_00060
 Fiber Optic Light Source,FI L151 swiss made till och med!,Fungerar,Gerät,C01,2022_00061
 Barnstead/thermoline varmegrej,Värmer upp prövrör,Lyser,Gerät,B01,2022_00062
 Cole Parmer sprutpump,Verkar fungera lappen påstår NOT FOR HUMAN USE,Fungerar,Gerät,B01,2022_00063
 HP 8111A function oulse generator,Verkar fungera helt ok,Fungerar,Instrument,A01,2022_00064
-Senselab 4CHAmp,Antagligen en instrumentförstarkare,_Otestad,Gerät,C02,2022_00065
+Senselab 4CHAmp,Antagligen en instrumentförstarkare,Otestad,Gerät,C02,2022_00065
 Behringer Composer MDX2000, ,Lyser,Video,B01,2022_00066
 Behringer Ultradrive Pro,DCX 2496 Loudspeaker management system,Fungerar,Video,B01,2022_00067
-HP202A,Low frequency high amplitude function generator,_Otestad,Gerät,C02,2022_00068
-Telequipment Oscilloscope Type D33R,Chassit sitter löst,_Otestad,Gerät,C02,2022_00069
-Eta-bygge EME transmitter,Läskig grej rör-du-dör-du klassad,_Otestad,Radio,A01,2022_00070
-SEGA Mega drive,Hela 16 bitar ser fin ut,_Otestad,Nostalgia,B01,2022_00071
+HP202A,Low frequency high amplitude function generator,Otestad,Gerät,C02,2022_00068
+Telequipment Oscilloscope Type D33R,Chassit sitter löst,Otestad,Gerät,C02,2022_00069
+Eta-bygge EME transmitter,Läskig grej rör-du-dör-du klassad,Otestad,Radio,A01,2022_00070
+SEGA Mega drive,Hela 16 bitar ser fin ut,Otestad,Nostalgia,B01,2022_00071
 Soptunna,Små bucklor diverse loot inuti,Fungerar,Misc,B01,2022_00074
-Terminal,digital vt320,_Otestad,Computer,B01,2022_00075
-Digital VT220 Terminal,Med en fin och gul Chalmers logga på sidan,_Otestad,Nostalgia,C01,2022_00076
+Terminal,digital vt320,Otestad,Computer,B01,2022_00075
+Digital VT220 Terminal,Med en fin och gul Chalmers logga på sidan,Otestad,Nostalgia,C01,2022_00076
 Flygplan,SAAB 2003 årsmodell lätt begagnad trasigt landningsställ,Lyser,Gerät,C01,2022_00077
 Mac Mini 500GB,Laddare och tillbehor ingar,Fungerar,Gerät,B01,2022_10001
 Mac Mini 1TB,Laddare och tillbehor ingar,Fungerar,Gerät,B01,2022_10002
-Drake TR7 HF TRX,Modifierad,_Otestad,Radio,B01,2022_10003
+Drake TR7 HF TRX,Modifierad,Otestad,Radio,B01,2022_10003
 2x Mikroskop,Bada har lampor plus 4 objektiv,Lyser,Gerät,A01,2022_10004
 HAM-MASTER nataggregat,12-15V DC 22A,Fungerar,Power supply,B01,2022_10005
 PS1502A 15V 2A, ,Fungerar,Power supply,B01,2022_10006
-Strobosun Stroboskop,Saknat vagguttag,_Otestad,Gerät,B01,2022_10007
+Strobosun Stroboskop,Saknat vagguttag,Otestad,Gerät,B01,2022_10007
