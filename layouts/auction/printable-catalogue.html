@@ -46,6 +46,8 @@
                           {{ if $image }}
                             {{ $thumbnail := $image.Fill "180x180" }}
                             <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}>
+                          {{ else }}
+                            <img class="auction-item-thumbnail" src="/img/missing-image.png">
                           {{ end }}
                         </div>
                         <div class="printable-catalogue-text">

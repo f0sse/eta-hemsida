@@ -12,8 +12,11 @@
         "title": "{{ (index $r 0) }}",
         "description": "{{ (index $r 1) }}",
         "status": "{{ (index $r 2) }}",
-        {{ $image := (resources.Get (printf "/auction/images/%s.jpg" (index $r 5))).Resize "1024x" }}
-        "image": "{{ $image.Permalink }}"
+        {{ $imagePath := (printf "/auction/images/%s.jpg" (index $r 5)) }}
+        {{- if (fileExists $imagePath ) -}}
+            {{ $image := (resources.Get $imagePath ).Resize "1024x" }}
+            "image": "{{ $image.Permalink }}"
+        {{ end }}
       }
       {{ end }}
     ]

@@ -20,6 +20,8 @@
                 {{ $thumbnail := $image.Fill "180x180" }}
                 {{ $largeImage := $image.Fit "1080x1080" }}
                 <a href={{ $largeImage.Permalink }}> <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}> </a>
+              {{ else }}
+                <img class="auction-item-thumbnail" src="/img/missing-image.png">
               {{ end }}
             </td>
             <td>
