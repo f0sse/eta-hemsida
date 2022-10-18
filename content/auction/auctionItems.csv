@@ -3,6 +3,7 @@ Oscilloskop HP54600B,100MHz b/w 2 Kanaler,Fungerar,Instrument,B01,2022_00000
 Poynting Antenn,Antagligen for anvandning med mobilnatverk,Otestad,Radio,C01,2022_00001
 HP 53131A Universal Counter,225MHz,Fungerar,Instrument,B01,2022_00002
 Anritsu Universal Test Fixture,Model 3680-20,Fungerar,Gerät,B01,2022_00003
+Gramofon,L75 Lenco,Otestad,Nostalgia,A01,2022_00005
 Benchtop Ionizer,Desco flakt funkar vet inte om resten,Lyser,Gerät,C01,2022_00006
 Leader LFG-1300 Funktionsgenerator,Verkar fungera,Fungerar,Instrument,B01,2022_00007
 Copex LF-102,Analog projektor (lampa),Fungerar,Gerät,C01,2022_00008
@@ -20,8 +21,10 @@ Logic Troubleshooting Kit,Ingång saknar clips,Otestad,Instrument,C01,2022_00020
 Stag SE6T Uv Eraser,Skärmen sätts på,Lyser,Gerät,C01,2022_00021
 Gerät,28 Ohm 65 A ,Otestad,Gerät,C01,2022_00022
 RF wattmeter, ,Otestad,Radio,C01,2022_00023
+Minwa step-conventer,AC 230 -> AC 110 800W,Otestad,Gerät,B01,2022_00024
 Step down converter,AC 230 till AC 110 800W Amerkanska uttag,Otestad,Gerät,B01,2022_00026
 Leader LBO-522 oscillocope + function gen.,Oskilloskop med funktions generator. Kanal ett fungerar fick inte kanal 2 att fungera. Fick inte heller igång funktions generatorn.,Lyser,Instrument,C01,2022_00027
+ATM13 ,Fixed charge condenser sub miniature microphone,Otestad,Component,C01,2022_00030
 500W ATX PSU,OCZ500MXSP,Lyser,Power supply,C01,2022_00031
 Universalräknare SC-7203,Kanal A fungerar B & C otestad,Fungerar,Instrument,A01,2022_00032
 Dynavox stereo hi-fi amplifier, ,Lyser,Video,B01,2022_00034
@@ -37,9 +40,11 @@ Handbook of Chemistry and physics,Går för 2230 ny i bra skick,Fungerar,Misc,A0
 Poker set,2x decks + markers,Fungerar,Gerät,B01,2022_00044
 FSP datonataggregat,Verkar fungera utan problem,Fungerar,Power supply,B01,2022_00045
 TLS3001,Led strip,Otestad,Misc,C01,2022_00046
+Digital LA75 dot matrix printer, ,Fungerar,Gerät,B01,2022_00047
 TLS3001,Led strip,Otestad,Gerät,C01,2022_00048
 Commodore 64, ,Otestad,Nostalgia,B01,2022_00049
 Commodore 64, ,Otestad,Nostalgia,B01,2022_00050
+Power Amplifier,7.1-7.7 GHz 6 st,Otestad,Radio,B01,2022_00051
 Anslut avfuktare,Kompressorn later ok lyser upp annars,Fungerar,Gerät,B01,2022_00052
 Commodore Datassette,Eject knappen funkar inte,Otestad,Gerät,C01,2022_00053
 HP8564E,Spektrumanalysator 30Hz-40GHz testad av SA6JKK,Fungerar,Instrument,A01,2022_00054
