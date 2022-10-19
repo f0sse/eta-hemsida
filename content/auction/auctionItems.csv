@@ -1,78 +1,78 @@
 Title,Description,Status,Category,Location,ID
-Oscilloskop HP54600B,100MHz b/w 2 Kanaler,Fungerar,Instrument,B01,2022_00000
-Poynting Antenn,Antagligen for anvandning med mobilnatverk,Otestad,Radio,C01,2022_00001
-HP 53131A Universal Counter,225MHz,Fungerar,Instrument,B01,2022_00002
-Anritsu Universal Test Fixture,Model 3680-20,Fungerar,Gerät,B01,2022_00003
-Gramofon,L75 Lenco,Otestad,Nostalgia,A01,2022_00005
-Benchtop Ionizer,Desco flakt funkar vet inte om resten,Lyser,Gerät,C01,2022_00006
-Leader LFG-1300 Funktionsgenerator,Verkar fungera,Fungerar,Instrument,B01,2022_00007
-Copex LF-102,Analog projektor (lampa),Fungerar,Gerät,C01,2022_00008
-Konstig våg,Varkar mäta någont vikt,Lyser,Instrument,C01,2022_00009
-Variac 0-270V,HSN0303 13A,Fungerar,Power supply,B01,2022_00010
-Stroboskop,Funkar som tachometer,Fungerar,Gerät,B01,2022_00012
-S-video kamera,Verkar vara i bra skick,Fungerar,Video,C01,2022_00013
-Precision capacitor 1100pF,Verkar vara i bra skick,Otestad,Gerät,B01,2022_00014
-Knappsats,Många typer ganska många gänns som riktigt högkvalitativa grejer,Otestad,Misc,C01,2022_00015
-Clamp meter, ,Otestad,Gerät,C01,2022_00016
-batterier,Ser ut som lithium-ion,Otestad,Gerät,C01,2022_00017
-Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Annat,Radio,C01,2022_00018
-Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Annat,Radio,C01,2022_00019
-Logic Troubleshooting Kit,Ingång saknar clips,Otestad,Instrument,C01,2022_00020
-Stag SE6T Uv Eraser,Skärmen sätts på,Lyser,Gerät,C01,2022_00021
-Gerät,28 Ohm 65 A ,Otestad,Gerät,C01,2022_00022
-RF wattmeter, ,Otestad,Radio,C01,2022_00023
-Minwa step-conventer,AC 230 -> AC 110 800W,Otestad,Gerät,B01,2022_00024
-Step down converter,AC 230 till AC 110 800W Amerkanska uttag,Otestad,Gerät,B01,2022_00026
-Leader LBO-522 oscillocope + function gen.,Oskilloskop med funktions generator. Kanal ett fungerar fick inte kanal 2 att fungera. Fick inte heller igång funktions generatorn.,Lyser,Instrument,C01,2022_00027
-ATM13 ,Fixed charge condenser sub miniature microphone,Otestad,Component,C01,2022_00030
-500W ATX PSU,OCZ500MXSP,Lyser,Power supply,C01,2022_00031
-Universalräknare SC-7203,Kanal A fungerar B & C otestad,Fungerar,Instrument,A01,2022_00032
-Dynavox stereo hi-fi amplifier, ,Lyser,Video,B01,2022_00034
-Spotlight galvanometer, ,Otestad,Gerät,C01,2022_00035
-servogor 460 datalogger,Verkar fungera ok 4 kanaler,Fungerar,Gerät,C01,2022_00036
-Marconi FM/AM modulation meter,Lyser,Lyser,Instrument,C01,2022_00037
-Three Keyboards,IBM - VICTOR - TRANFOR,Otestad,Computer,C01,2022_00038
-Elevation Indicator,Kenpro KR/500B,Lyser,Radio,C01,2022_00039
-General KDE 821,Antagligen en terminal 2x DB25 pa baksidan,Lyser,Gerät,C01,2022_00040
-Network finder,Wi-net window,Lyser,Computer,C01,2022_00041
-IC assortment,Audio and power,Otestad,Component,C01,2022_00042
-Handbook of Chemistry and physics,Går för 2230 ny i bra skick,Fungerar,Misc,A01,2022_00043
-Poker set,2x decks + markers,Fungerar,Gerät,B01,2022_00044
-FSP datonataggregat,Verkar fungera utan problem,Fungerar,Power supply,B01,2022_00045
-TLS3001,Led strip,Otestad,Misc,C01,2022_00046
-Digital LA75 dot matrix printer, ,Fungerar,Gerät,B01,2022_00047
-TLS3001,Led strip,Otestad,Gerät,C01,2022_00048
-Commodore 64, ,Otestad,Nostalgia,B01,2022_00049
-Commodore 64, ,Otestad,Nostalgia,B01,2022_00050
-Power Amplifier,7.1-7.7 GHz 6 st,Otestad,Radio,B01,2022_00051
-Anslut avfuktare,Kompressorn later ok lyser upp annars,Fungerar,Gerät,B01,2022_00052
-Commodore Datassette,Eject knappen funkar inte,Otestad,Gerät,C01,2022_00053
-HP8564E,Spektrumanalysator 30Hz-40GHz testad av SA6JKK,Fungerar,Instrument,A01,2022_00054
-RG58A-U Triax,mer än 50m kvar antagligen,Annat,Misc,B01,2022_00055
-Cool låda, ,Otestad,Gerät,C01,2022_00056
-Super boxer fan,230-fläkt,Fungerar,Gerät,C01,2022_00057
-Rotary encoder c.a. 300st,Känns nice klickar c.a. 32 steps,Otestad,Component,C01,2022_00058
-Antennrotordrivare,styr azimuth motorn. har minnesfunktiner samt rotationsbegränsningsfunktioner,Lyser,Radio,C01,2022_00059
-pincett lödstation,har temperaturkontroll samt pedal,Fungerar,Gerät,C01,2022_00060
-Fiber Optic Light Source,FI L151 swiss made till och med!,Fungerar,Gerät,C01,2022_00061
-Barnstead/thermoline varmegrej,Värmer upp prövrör,Lyser,Gerät,B01,2022_00062
-Cole Parmer sprutpump,Verkar fungera lappen påstår NOT FOR HUMAN USE,Fungerar,Gerät,B01,2022_00063
-HP 8111A function oulse generator,Verkar fungera helt ok,Fungerar,Instrument,A01,2022_00064
-Senselab 4CHAmp,Antagligen en instrumentförstarkare,Otestad,Gerät,C02,2022_00065
-Behringer Composer MDX2000, ,Lyser,Video,B01,2022_00066
-Behringer Ultradrive Pro,DCX 2496 Loudspeaker management system,Fungerar,Video,B01,2022_00067
-HP202A,Low frequency high amplitude function generator,Otestad,Gerät,C02,2022_00068
-Telequipment Oscilloscope Type D33R,Chassit sitter löst,Otestad,Gerät,C02,2022_00069
-Eta-bygge EME transmitter,Läskig grej rör-du-dör-du klassad,Otestad,Radio,A01,2022_00070
-SEGA Mega drive,Hela 16 bitar ser fin ut,Otestad,Nostalgia,B01,2022_00071
-Soptunna,Små bucklor diverse loot inuti,Fungerar,Misc,B01,2022_00074
-Terminal,digital vt320,Otestad,Computer,B01,2022_00075
-Digital VT220 Terminal,Med en fin och gul Chalmers logga på sidan,Otestad,Nostalgia,C01,2022_00076
-Flygplan,SAAB 2003 årsmodell lätt begagnad trasigt landningsställ,Lyser,Gerät,C01,2022_00077
-Mac Mini 500GB,Laddare och tillbehor ingar,Fungerar,Gerät,B01,2022_10001
-Mac Mini 1TB,Laddare och tillbehor ingar,Fungerar,Gerät,B01,2022_10002
-Drake TR7 HF TRX,Modifierad,Otestad,Radio,B01,2022_10003
-2x Mikroskop,Bada har lampor plus 4 objektiv,Lyser,Gerät,A01,2022_10004
-HAM-MASTER nataggregat,12-15V DC 22A,Fungerar,Power supply,B01,2022_10005
-PS1502A 15V 2A, ,Fungerar,Power supply,B01,2022_10006
-Strobosun Stroboskop,Saknat vagguttag,Otestad,Gerät,B01,2022_10007
+Oscilloskop HP54600B,100MHz b/w 2 Kanaler,Tested,Instrument,B01,2022_00000
+Poynting Antenn,Antagligen for användning med mobilnätverk,Untested,Radio,C01,2022_00001
+HP 53131A Universal Counter,225MHz,Tested,Instrument,B01,2022_00002
+Anritsu Universal Test Fixture,Model 3680-20,Tested,Gerät,B01,2022_00003
+Gramofon,L75 Lenco,Untested,Nostalgia,A01,2022_00005
+Benchtop Ionizer,"Desco fläkt funkar, vet inte om resten",Lights up,Gerät,C01,2022_00006
+Leader LFG-1300 Funktionsgenerator,Verkar fungera,Tested,Instrument,B01,2022_00007
+Copex LF-102,Analog projektor (lampa),Tested,Gerät,C01,2022_00008
+Konstig våg,Värkar mäta någon vikt,Lights up,Instrument,C01,2022_00009
+Variac 0-270V,HSN0303 13A,Tested,Power supply,B01,2022_00010
+Stroboskop,Funkar som tachometer,Tested,Gerät,B01,2022_00012
+S-video kamera,Verkar vara i bra skick,Tested,Video,C01,2022_00013
+Precision capacitor 1100pF,Verkar vara i bra skick,Untested,Component,B01,2022_00014
+Knappsats,"Många typer, ganska många känns som riktigt högkvalitativa grejer",Untested,Miscellaneous,C01,2022_00015
+Clamp meter,400A,Untested,Gerät,C01,2022_00016
+batterier,Ser ut som lithium-ion,Untested,Gerät,C01,2022_00017
+Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Other,Radio,C01,2022_00018
+Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Other,Radio,C01,2022_00019
+Logic Troubleshooting Kit,Ingång saknar clips,Untested,Instrument,C01,2022_00020
+Stag SE6T Uv Eraser,Skärmen sätts på,Lights up,Gerät,C01,2022_00021
+Gerät,28 Ohm 65 A ,Untested,Gerät,C01,2022_00022
+RF wattmeter, ,Untested,Radio,C01,2022_00023
+Minwa step-conventer,AC 230 -> AC 110 800W,Untested,Gerät,B01,2022_00024
+AC 230V till 110V converter,AC 230 till AC 110 800W Amerkanska uttag,Untested,Gerät,B01,2022_00026
+Leader LBO-522 oscillocope + function gen.,"Oskilloskop med funktionsgenerator. Kanal ett fungerar, fick inte kanal 2 att fungera. Fick inte heller igång funktionsgeneratorn.",Lights up,Instrument,C01,2022_00027
+ATM13 ,Fixed charge condenser sub miniature microphone,Untested,Component,C01,2022_00030
+500W ATX PSU,OCZ500MXSP,Lights up,Power supply,C01,2022_00031
+Universalräknare SC-7203,"Kanal A fungerar, B & C otestad",Tested,Instrument,A01,2022_00032
+Dynavox stereo hi-fi amplifier, ,Lights up,Video,B01,2022_00034
+Spotlight galvanometer, ,Untested,Gerät,C01,2022_00035
+Servogor 460 datalogger,Verkar fungera ok. 4 kanaler,Tested,Gerät,C01,2022_00036
+Marconi FM/AM modulation meter,Lyser,Lights up,Instrument,C01,2022_00037
+Three Keyboards,IBM - VICTOR - TRANFOR,Untested,Computer,C01,2022_00038
+Elevation Indicator,Kenpro KR/500B,Lights up,Radio,C01,2022_00039
+General KDE 821,Antagligen en terminal 2x DB25 pa baksidan,Lights up,Gerät,C01,2022_00040
+Network finder,Wi-net window,Lights up,Computer,C01,2022_00041
+IC assortment,Audio and power,Untested,Component,C01,2022_00042
+Handbook of Chemistry and physics,Går för 2230 ny i bra skick,Tested,Miscellaneous,A01,2022_00043
+Poker set,2x decks + markers,Tested,Gerät,B01,2022_00044
+FSP datonataggregat,Verkar fungera utan problem,Tested,Power supply,B01,2022_00045
+TLS3001,Led strip,Untested,Miscellaneous,C01,2022_00046
+Digital LA75 dot matrix printer, ,Tested,Gerät,B01,2022_00047
+TLS3001,Led strip,Untested,Gerät,C01,2022_00048
+Commodore 64, ,Untested,Nostalgia,B01,2022_00049
+Commodore 64, ,Untested,Nostalgia,B01,2022_00050
+Power Amplifier,7.1-7.7 GHz 6 st,Untested,Radio,B01,2022_00051
+Anslut avfuktare,Kompressorn later ok lyser upp annars,Tested,Gerät,B01,2022_00052
+Commodore Datassette,Eject knappen funkar inte,Untested,Gerät,C01,2022_00053
+HP8564E,Spektrumanalysator 30Hz-40GHz. Testad av SA6JKK,Tested,Instrument,A01,2022_00054
+RG58A-U Triax,Mer än 50m kvar antagligen,Other,Miscellaneous,B01,2022_00055
+Cool låda, ,Untested,Gerät,C01,2022_00056
+Super boxer fan,230-fläkt,Tested,Gerät,C01,2022_00057
+Rotary encoder c.a. 300st,Känns nice. Klickar c.a. 32 steps,Untested,Component,C01,2022_00058
+Antennrotordrivare,Styr azimuth motorn. Har minnesfunktiner samt funktioner för rotationsbegränsning,Lights up,Radio,C01,2022_00059
+Pincett Lödstation,Har temperaturkontroll samt pedal,Tested,Gerät,C01,2022_00060
+Fiber Optic Light Source,FI L151 swiss made till och med!,Tested,Gerät,C01,2022_00061
+Barnstead/thermoline varmegrej,Värmer upp provrör,Lights up,Gerät,B01,2022_00062
+Cole Parmer sprutpump,Verkar fungera. Lappen påstår NOT FOR HUMAN USE,Tested,Gerät,B01,2022_00063
+HP 8111A function pulse generator,Verkar fungera helt ok. 20MHz,Tested,Instrument,A01,2022_00064
+Senselab 4CHAmp,Antagligen en instrumentförstarkare,Untested,Gerät,C02,2022_00065
+Behringer Composer MDX2000, ,Lights up,Video,B01,2022_00066
+Behringer Ultradrive Pro,DCX 2496 Loudspeaker management system,Tested,Video,B01,2022_00067
+HP202A,Low frequency high amplitude function generator,Untested,Gerät,C02,2022_00068
+Telequipment Oscilloscope Type D33R,Chassit sitter löst,Untested,Gerät,C02,2022_00069
+Eta-bygge EME transmitter,Läskig grej. Rör-du-dör-du klassad,Untested,Radio,A01,2022_00070
+SEGA Mega drive,Hela 16 bitar! Ser fin ut,Untested,Nostalgia,B01,2022_00071
+Soptunna,"Små bucklor, diverse loot inuti",Tested,Miscellaneous,B01,2022_00074
+Terminal,Digital vt320,Untested,Computer,B01,2022_00075
+Digital VT220 Terminal,Med en fin och gul Chalmers logga på sidan,Untested,Nostalgia,C01,2022_00076
+Flygplan,SAAB 2003 årsmodell lätt begagnad trasigt landningsställ,Lights up,Gerät,C01,2022_00077
+Mac Mini 500GB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10001
+Mac Mini 1TB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10002
+Drake TR7 HF TRX,Modifierad,Untested,Radio,B01,2022_10003
+2x Mikroskop,Bada har lampor plus 4 objektiv,Lights up,Gerät,A01,2022_10004
+HAM-MASTER nataggregat,12-15V DC 22A,Tested,Power supply,B01,2022_10005
+PS1502A 15V 2A, Regulated power supply,Tested,Power supply,B01,2022_10006
+Strobosun Stroboskop,Saknar vägguttag,Untested,Gerät,B01,2022_10007
