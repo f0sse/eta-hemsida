@@ -13,7 +13,6 @@ layout: "home"
 
 Every year ETA arranges an auction where ham radio equipment, electronics components, lab equipment mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to  support the student association's economy.<br>
  
-<a style="margin-top: 0.2rem" href="https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/atgarder-mot-covid-19-fran-22-november-och-fran-1-december/#forstadec">Information about vaccination mandate</a>
 {{< /auction/auctionDetails >}}
 
 <!-- The auction info (during the auction and rules) is directly written in the shortcode as markdown doesn't support columns. -->
