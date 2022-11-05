@@ -16,7 +16,6 @@ Knappsats,"Många typer, ganska många känns som riktigt högkvalitativa grejer
 Clamp meter,400A,Untested,Gerät,C01,2022_00016
 batterier,Ser ut som lithium-ion,Untested,Gerät,C01,2022_00017
 Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Other,Radio,C01,2022_00018
-Termaline koaxialmotstånd,80W 51.5ohm N-kontakt,Other,Radio,C01,2022_00019
 Logic Troubleshooting Kit,Ingång saknar clips,Untested,Instrument,C01,2022_00020
 Stag SE6T Uv Eraser,Skärmen sätts på,Lights up,Gerät,C01,2022_00021
 Gerät,28 Ohm 65 A ,Untested,Gerät,C01,2022_00022
@@ -24,9 +23,11 @@ RF wattmeter, ,Untested,Radio,C01,2022_00023
 Minwa step-conventer,AC 230 -> AC 110 800W,Untested,Gerät,B01,2022_00024
 AC 230V till 110V converter,AC 230 till AC 110 800W Amerkanska uttag,Untested,Gerät,B01,2022_00026
 Leader LBO-522 oscillocope + function gen.,"Oskilloskop med funktionsgenerator. Kanal ett fungerar, fick inte kanal 2 att fungera. Fick inte heller igång funktionsgeneratorn.",Lights up,Instrument,C01,2022_00027
+testobjekt,cringe,Untested,Component,C01,2022_00029
 ATM13 ,Fixed charge condenser sub miniature microphone,Untested,Component,C01,2022_00030
 500W ATX PSU,OCZ500MXSP,Lights up,Power supply,C01,2022_00031
 Universalräknare SC-7203,"Kanal A fungerar, B & C otestad",Tested,Instrument,A01,2022_00032
+Phleps Dodge RF filter,"LOW 452-455, HIGH 462-465",Untested,Radio,C02,2022_00033
 Dynavox stereo hi-fi amplifier, ,Lights up,Video,B01,2022_00034
 Spotlight galvanometer, ,Untested,Gerät,C01,2022_00035
 Servogor 460 datalogger,Verkar fungera ok. 4 kanaler,Tested,Gerät,C01,2022_00036
@@ -65,10 +66,74 @@ HP202A,Low frequency high amplitude function generator,Untested,Gerät,C02,2022_
 Telequipment Oscilloscope Type D33R,Chassit sitter löst,Untested,Gerät,C02,2022_00069
 Eta-bygge EME transmitter,Läskig grej. Rör-du-dör-du klassad,Untested,Radio,A01,2022_00070
 SEGA Mega drive,Hela 16 bitar! Ser fin ut,Untested,Nostalgia,B01,2022_00071
+Steed variable power supply ,"BN-DM81720C , Fungerar inte ordentligt men går nog att laga",Doesn't work,Gerät,C02,2022_00072
+DAIWA Power Supply 1-15V 24A,"Ger ut rätt ström och spänning, men visarna på instrumentet är sönder.",Other,Instrument,B01,2022_00073
 Soptunna,"Små bucklor, diverse loot inuti",Tested,Miscellaneous,B01,2022_00074
 Terminal,Digital vt320,Untested,Computer,B01,2022_00075
 Digital VT220 Terminal,Med en fin och gul Chalmers logga på sidan,Untested,Nostalgia,C01,2022_00076
 Flygplan,SAAB 2003 årsmodell lätt begagnad trasigt landningsställ,Lights up,Gerät,C01,2022_00077
+Tryckluftssats,Diverse tryckluft gerät med färgspraygrej,Untested,Miscellaneous,C02,2022_00078
+LOUD technologies 802VLZ4,8-kanal audio mixer,Lights up,Video,A01,2022_00079
+Diskett Maxwell MF2HD,50st oöppnad förpackning ,Lights up,Nostalgia,C02,2022_00080
+Lödstation,"Lampan blinkar, men lödkolven  bli varm",Other,Instrument,C02,2022_00081
+Lödstation,Nyckeln gör inget,Tested,Instrument,C02,2022_00082
+Lödstation,Har nyckel,Tested,Instrument,B01,2022_00083
+Toshiba T1910 laptop,"Behöver nytt batteri
+Har DOS + Windows 3.1
+Software stacker disk",Untested,Computer,C02,2022_00084
+Lödstation ,,Tested,Instrument,B01,2022_00085
+oscilloskop pm3206,Intensity pot fungerar inte,Tested,Instrument,B01,2022_00086
+vinnant COL868/5-S,868MHz antenn N-kontakt,Lights up,Component,B01,2022_00087
+Weller WAD varmluftstation,Inkluderar tryckluft pistol för vanlig luft,Tested,Instrument,A01,2022_00088
+Kompressor 0L 1850,"1.1kW 
+Tank
+Regulator",Tested,Gerät,A01,2022_00089
+CISCO Dual band access port,"AIR-CAP302I-E-K9
+",Lights up,Gerät,B01,2022_00090
+Bärbar overhead projektor,Swallow traveler,Tested,Video,B01,2022_00091
+Weller Varmluftstation m blåsmunstycke,WMA-1,Tested,Gerät,A01,2022_00092
+Weller WAD varmluft station,Ej testad med tryckluft,Lights up,Gerät,B01,2022_00093
+weller lödstation,,Tested,Gerät,B01,2022_00094
+mac G4 1999,Lite repad,Lights up,Nostalgia,C02,2022_00095
+Vinyl/cd/kassett/radio/aux spelare,,Lights up,Nostalgia,C02,2022_00096
+"15000 uF, 63 VDC","DIY railgun kit
+18 st",Untested,Component,B02,2022_00097
+lödstation ungor matic,65w,Tested,Gerät,C02,2022_00098
+Quick connect RF,35st,Untested,Radio,C02,2022_00099
+Mixer firewire,,Lights up,Instrument,C02,2022_00100
+3-fas kabel,Lång,Untested,Gerät,C02,2022_00101
+3-fas kabel med kontakt,,Untested,Gerät,C02,2022_00102
+Zodiac SWF meter 90114,"25W, ref ca. 2% vid 50Ω konstantlast ",Untested,Radio,B02,2022_00103
+högtalarpar,OBS! Finns två stycken sälj dem tillsammans,Tested,Video,B02,2022_00104
+IBM-PC-xt,"Samlar-ex
+IBM's första modell IBM-PC-xt utan hårddisk. Avsedd för 5,95"" floppy 360k byte.",Untested,Nostalgia,A01,2022_00105
+Startone AM-FM,"AM-FM model 341, 27MHz, 5W",Lights up,Radio,B02,2022_00106
+Nätverksswitch,"Fläktarna går, resten otestat.
+
+Finns plats för en till modul.",Lights up,Gerät,B02,2022_00107
+Gwinstek GPS-3030DD,"Spänningen visar fel, men verkar stabil",Tested,Power supply,C02,2022_00108
+A-50 differential multimeter,,Lights up,Instrument,B02,2022_00109
+transceiver ef3380,,Untested,Gerät,C02,2022_00110
+USB mini kavel,0.15m Förmodligen fler än hundra,Untested,Miscellaneous,C02,2022_00111
+PS3005 Spänningsgenerator,"5 Ampere, 30 Volt. 
+Vissa segment på skärmen trasiga.
+Manual med kretsschema ingår.",Tested,Power supply,B02,2022_00112
+GenRad 1567 RLC bridge,"Verkar fungera, skärmen blinkar",Tested,Instrument,A01,2022_00113
+HP VHF Signalgenerator,Vågar inte koppla in för den lär börja brinna,Untested,Instrument,C02,2022_00114
+seltron 2x 0-40V 0.5A,Verkar fungera,Tested,Instrument,B02,2022_00115
+PM 3632 logic analyzer,32 kanaler,Tested,Instrument,C02,2022_00116
+Tektronix 2215 analog oscilloskop ,60MHz. Glappar på olika inställningar,Tested,Instrument,C02,2022_00117
+Hobbes FM-257888,"Fiber optisk effektmätare
+1550nm, 1310nm, 850nm",Untested,Instrument,B02,2022_00118
+Hameg LCR meter,"200pF-200uF, 200uH-200H",Tested,Instrument,A01,2022_00119
+Oscilloskop SS-5711,100MHz 2 kanaler. Y-axel lite ostabil. Manual ingår.,Tested,Instrument,B02,2022_00120
+PG56 Double Pulse Generator,Ger rätt pulsbredd,Tested,Instrument,B02,2022_00121
+Polyamp 12V till 27V DC,"270W ut, funkar bra som projektlåda",Tested,Power supply,B02,2022_00122
+Polyamp DC-DC,"12V till 27V, 270W ut",Tested,Power supply,B02,2022_00123
+Polyamp DC-DC,"12V till 27V, 270W ut",Tested,Power supply,B02,2022_00124
+HP 4265A Universal Bridge,,Lights up,Instrument,B02,2022_00125
+Volvo 1080068,"Switching PSU, 20-30V till 12V och 14V. 11A ut = 154W",Untested,Power supply,C02,2022_00126
+µ-skop,Dåligt,Lights up,Instrument,C02,2022_00127
 Mac Mini 500GB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10001
 Mac Mini 1TB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10002
 Drake TR7 HF TRX,Modifierad,Untested,Radio,B01,2022_10003
