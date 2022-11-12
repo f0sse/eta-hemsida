@@ -134,10 +134,51 @@ Polyamp DC-DC,"12V till 27V, 270W ut",Tested,Power supply,B02,2022_00124
 HP 4265A Universal Bridge,,Lights up,Instrument,B02,2022_00125
 Volvo 1080068,"Switching PSU, 20-30V till 12V och 14V. 11A ut = 154W",Untested,Power supply,C02,2022_00126
 µ-skop,Dåligt,Lights up,Instrument,C02,2022_00127
+MERA LUMEL N2-18 strömmätare,"0-20mA, innehåller 3 nixie rör",Tested,Instrument,C02,2022_00128
+skivspelare,,Untested,Nostalgia,B02,2022_00129
+FM Rundradio,,Doesn't work,Radio,C03,2022_00131
+Radio,,Untested,Nostalgia,B02,2022_00132
+Advance instruments Digital Voltmeter VM5,"Snygga nixierör, 1kV max. Verkar vara precis till +-1 siffra, testad vid DC. Några knappar saknas, men funkar",Tested,Instrument,A01,2022_00133
+FM-35D12A UHF mobilradio,450-470MHz 12W,Untested,Radio,C03,2022_00134
+Skivspelare,Motorn verkar inte fungera.,Doesn't work,Nostalgia,C03,2022_00135
+OKI ES5431dn LED färg skrivare,"Verkar vara ny i originallåda, bild på ekvivalent skrivare",Untested,Miscellaneous,C03,2022_00136
+"Powermotstånd blandat, 12st","Mest 150Ω, stora",Untested,Component,B02,2022_00137
+"Små effektmotstånd, blandat",,Untested,Component,B02,2022_00138
+Multifunction counter,Ska klara upp till 1 GHz men visar ingen frekvens.,Lights up,Instrument,C03,2022_00139
+Dirigo universal counter FC5710,"Display och knappar funkar, ger ej utslag
+",Lights up,Instrument,C03,2022_00140
+Högtalare,Typ 20x30cm stor,Tested,Video,B02,2022_00141
+vacuum tube voltmeter, ,Untested,Nostalgia,C03,2022_00142
+Bänkmultimeter Keithly 191,Mäter bra ,Tested,Instrument,B02,2022_00143
+Keithley 179 TRMS Multimeter ,Lyser men ger inte ut värden som överensstämmer med vad det borde.,Lights up,Instrument,C03,2022_00144
+multimeter 1243 schlumberger,Kan drivas på 400hz AC. Innehåller 4+ nixierör,Untested,Instrument,B02,2022_00145
+Tysk rundradio,,Untested,Radio,C03,2022_00146
+Radio ,Behöver ny störmkabel,Untested,Nostalgia,C03,2022_00147
+Strömtång 1:1000,"25, 100, 250, 500, 1000A
+
+Ger signal ut",Tested,Instrument,C03,2022_00148
+Dräger Combiwarn 50,Mäter syre och halten av explosiva gaser,Untested,Instrument,C03,2022_00149
+Dräger Combiwarn 50,"Mäter syre och explosiva gaser, har läderband",Untested,Instrument,C03,2022_00150
+Dräger Warnex,Mäter någon gas,Untested,Instrument,C03,2022_00151
+Advance Instrument multimeter,"DMM3, funkar sådär, visar 8V istället för 11V, men har nixierör!",Lights up,Instrument,B02,2022_00153
+Isolationstestare,,Untested,Instrument,A01,2022_00154
+Teletype Siemens,Fernschreiber 100S,Lights up,Nostalgia,A01,2022_00155
+LTRONIX B503D,"0-50V, avklippt strömkabel",Untested,Power supply,C03,2022_00156
+Stor högtalare,C.a. 70x30cm,Tested,Gerät,B02,2022_00157
+Multimeter BBC Metrawatt,"Mäter bra, ström, spänning, resistans och kapacitans",Tested,Instrument,B02,2022_00158
+Hameg HM8142,Lyser inte upp,Doesn't work,Instrument,C03,2022_00159
+Velleman PS907 nätagg,"Verkar funka ok, Imax runt 6.5A tror jag, amperevisare är sönder",Tested,Instrument,B02,2022_00160
+WM14-96 Power Analyzer,,Untested,Gerät,C03,2022_00161
+GWinstek 30V 3A nätagg,3.13A klarar den,Tested,Instrument,B02,2022_00162
+Megger BMM2000 insulation multimeter,"Kommer med prober, utan kablar",Untested,Instrument,C03,2022_00163
+Omnidirectional current meter,"Radians innova AB, går på +-9VDV/batteri",Lights up,Instrument,B02,2022_00165
+Auto AM/FM mod. Meter,,Doesn't work,Instrument,C03,2022_00166
+GBV 5410,Servomotordrivare ,Untested,Gerät,B02,2022_00167
+XT4-9855 strömmätare,"Mäter bra, går upp till oändligheten ",Tested,Instrument,B02,2022_00168
 Mac Mini 500GB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10001
 Mac Mini 1TB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10002
 Drake TR7 HF TRX,Modifierad,Untested,Radio,B01,2022_10003
-2x Mikroskop,Bada har lampor plus 4 objektiv,Lights up,Gerät,A01,2022_10004
+Mikroskop,Har lampor plus 4 objektiv,Lights up,Gerät,A01,2022_10004
 HAM-MASTER nataggregat,12-15V DC 22A,Tested,Power supply,B01,2022_10005
 PS1502A 15V 2A, Regulated power supply,Tested,Power supply,B01,2022_10006
 Strobosun Stroboskop,Saknar vägguttag,Untested,Gerät,B01,2022_10007
