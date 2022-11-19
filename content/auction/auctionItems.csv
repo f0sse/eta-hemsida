@@ -23,7 +23,6 @@ RF wattmeter, ,Untested,Radio,C01,2022_00023
 Minwa step-conventer,AC 230 -> AC 110 800W,Untested,Gerät,B01,2022_00024
 AC 230V till 110V converter,AC 230 till AC 110 800W Amerkanska uttag,Untested,Gerät,B01,2022_00026
 Leader LBO-522 oscillocope + function gen.,"Oskilloskop med funktionsgenerator. Kanal ett fungerar, fick inte kanal 2 att fungera. Fick inte heller igång funktionsgeneratorn.",Lights up,Instrument,C01,2022_00027
-testobjekt,cringe,Untested,Component,C01,2022_00029
 ATM13 ,Fixed charge condenser sub miniature microphone,Untested,Component,C01,2022_00030
 500W ATX PSU,OCZ500MXSP,Lights up,Power supply,C01,2022_00031
 Universalräknare SC-7203,"Kanal A fungerar, B & C otestad",Tested,Instrument,A01,2022_00032
@@ -175,6 +174,51 @@ Omnidirectional current meter,"Radians innova AB, går på +-9VDV/batteri",Light
 Auto AM/FM mod. Meter,,Doesn't work,Instrument,C03,2022_00166
 GBV 5410,Servomotordrivare ,Untested,Gerät,B02,2022_00167
 XT4-9855 strömmätare,"Mäter bra, går upp till oändligheten ",Tested,Instrument,B02,2022_00168
+Philips Radio,"Fm och kassettspelare, fick ej att funka
+",Lights up,Radio,C03,2022_00169
+psu mascot,30v 2a,Tested,Instrument,B02,2022_00170
+Högtalare Ferguson,50cm x 30cm,Tested,Miscellaneous,B02,2022_00171
+Transverter 432 MHz,,Untested,Instrument,B02,2022_00172
+Damsugarmotor,Funkar säkert till en fläkt. 65V,Tested,Miscellaneous,C03,2022_00173
+Hitachi,"HS-W01, 40 w, 8 ohm",Untested,Miscellaneous,B02,2022_00174
+Hp dator,"Windows vista, intel core 2",Lights up,Computer,C03,2022_00175
+Dell med Vista,Intel core 2,Lights up,Computer,C03,2022_00176
+432 MHz transverter,,Untested,Radio,C03,2022_00177
+Dell optiplex 780,,Lights up,Computer,C03,2022_00178
+Dell Optoplex 780,,Lights up,Computer,C03,2022_00179
+Svepocilloskop,HP8620C,Lights up,Instrument,A02,2022_00180
+Stereo Filterbank,Oöppnad,Other,Miscellaneous,B02,2022_00183
+Subwoofer högtalare,Väger mycket,Tested,Miscellaneous,B02,2022_00184
+Stereo Filterbank,Oöppnad,Other,Miscellaneous,B02,2022_00185
+HP Modulator,"Modell 8043A, Verkar funka men har inte testats mer noggrant",Lights up,Instrument,B02,2022_00186
+Skivspelare ,"""Nålen hyvlar ohh vi måste bytas ut. Funkar bra i övrigt""",Untested,Miscellaneous,C03,2022_00187
+Stereo Filterbank,Oöppnad,Other,Miscellaneous,B02,2022_00188
+Transformator,"Transformator från Tufvassons transformatorfabrik, 1 fas, prim. 110-127, sek 220",Tested,Instrument,A02,2022_00189
+Sony Disc player,CDP-XE330,Lights up,Video,C03,2022_00190
+Vågformsgenerator,"Ger signal vid test. Amplitud, frekvens och vågtyp fungerar. Ingen modellbeteckning.",Tested,Instrument,A02,2022_00191
+Yamaha cassette deck,,Lights up,Gerät,C03,2022_00192
+Baslåda logitech,Audio,Tested,Miscellaneous,C03,2022_00193
+Phoenix Gold 2 högtalare,"RX Series, i ny förpackning",Tested,Miscellaneous,B03,2022_00194
+Godtycklig rackdator,,Untested,Computer,C03,2022_00195
+Skärm Samsung,,Lights up,Video,C03,2022_00196
+Triplett 4800 True RMS multimeter ,120VAC nätanslutning. EXT interfacekontakt.,Untested,Instrument,C03,2022_00197
+"Bilbatteri 12V, 7Ah",Ger 12V även vid last på 1A,Tested,Power supply,C03,2022_00198
+Olympus mikroskop ,SD30,Tested,Instrument,B03,2022_00199
+HP ProCurve Gigabit switch,24 portar,Lights up,Computer,B03,2022_00200
+Dator,,Lights up,Computer,C03,2022_00201
+Hp proCurve gigabit switch,24 portar,Lights up,Computer,B03,2022_00202
+Hp proCurve gigabit switch,24 portar,Lights up,Computer,B03,2022_00203
+Oltronix STABPAC 90,,Untested,Power supply,C03,2022_00204
+Luxor Megafon,Har vakumrör i sig,Untested,Miscellaneous,B03,2022_00205
+Stationer dator,"Lösa delar inuti, Intel core i5",Doesn't work,Computer,B03,2022_00206
+Dogitalskrivare,LA210 letterprinter,Untested,Nostalgia,C03,2022_00207
+Komponentlådor 18st,,Tested,Miscellaneous,B03,2022_00208
+Makerbase och Mattercontroll,"3D-skrivare motorkort, 32 bitar. Samt Mattercontrol skärm",Untested,Gerät,B03,2022_00209
+Komponentlådor i skåp ,"16 stora i underlådan, 22 små i överlådan. Från ruag.",Tested,Miscellaneous,B03,2022_00210
+Löd allt i ett,"Yihua 853D
+Löd station,
+Varmluft station,
+Power supply 15V, 1A",Tested,Instrument,A02,2022_00211
 Mac Mini 500GB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10001
 Mac Mini 1TB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10002
 Drake TR7 HF TRX,Modifierad,Untested,Radio,B01,2022_10003
