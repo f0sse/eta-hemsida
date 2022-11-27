@@ -23,6 +23,7 @@ RF wattmeter, ,Untested,Radio,C01,2022_00023
 Minwa step-conventer,AC 230 -> AC 110 800W,Untested,Gerät,B01,2022_00024
 AC 230V till 110V converter,AC 230 till AC 110 800W Amerkanska uttag,Untested,Gerät,B01,2022_00026
 Leader LBO-522 oscillocope + function gen.,"Oskilloskop med funktionsgenerator. Kanal ett fungerar, fick inte kanal 2 att fungera. Fick inte heller igång funktionsgeneratorn.",Lights up,Instrument,C01,2022_00027
+testobjekt,cringe,Untested,Component,C01,2022_00029
 ATM13 ,Fixed charge condenser sub miniature microphone,Untested,Component,C01,2022_00030
 500W ATX PSU,OCZ500MXSP,Lights up,Power supply,C01,2022_00031
 Universalräknare SC-7203,"Kanal A fungerar, B & C otestad",Tested,Instrument,A01,2022_00032
@@ -200,7 +201,6 @@ Yamaha cassette deck,,Lights up,Gerät,C03,2022_00192
 Baslåda logitech,Audio,Tested,Miscellaneous,C03,2022_00193
 Phoenix Gold 2 högtalare,"RX Series, i ny förpackning",Tested,Miscellaneous,B03,2022_00194
 Godtycklig rackdator,,Untested,Computer,C03,2022_00195
-Skärm Samsung,,Lights up,Video,C03,2022_00196
 Triplett 4800 True RMS multimeter ,120VAC nätanslutning. EXT interfacekontakt.,Untested,Instrument,C03,2022_00197
 "Bilbatteri 12V, 7Ah",Ger 12V även vid last på 1A,Tested,Power supply,C03,2022_00198
 Olympus mikroskop ,SD30,Tested,Instrument,B03,2022_00199
@@ -219,6 +219,159 @@ Löd allt i ett,"Yihua 853D
 Löd station,
 Varmluft station,
 Power supply 15V, 1A",Tested,Instrument,A02,2022_00211
+Digital multimeter ,"PM 2443 digital DC voltmeter med nixie rör display , philips ",Tested,Instrument,B03,2022_00212
+Multimeter,"PM 2443 digital DC voltmeter med nixie rör display , philips ",Tested,Instrument,B03,2022_00213
+power supply b601d,,Doesn't work,Instrument,C03,2022_00214
+Oscilloskop Tektronix 2465B 400MHz,Lyser fint. Röd skala/bakgrund,Tested,Instrument,A02,2022_00215
+30MHz sweep generator model 164,"Wavetek, fungerar inte: outputtar bara 0V",Lights up,Instrument,C03,2022_00216
+Analogt oscilloskop ,"SS-5705 oscilloskop, 40 MHz",Tested,Instrument,B03,2022_00217
+Tendberg Kassett spelare,"12 oöppnade, förmodligen blanka, kassetter ",Lights up,Nostalgia,B03,2022_00218
+PM 2334 digital dc voltmeter ,"Fungerar fint alla nixirör segment lyser och fungerar 
+",Tested,Instrument,B03,2022_00219
+High directivity reflectometer,7.0-12.4GHz,Untested,Computer,B03,2022_00220
+High directivity reflecometer set ,3.7-8.3GHz,Untested,Computer,B03,2022_00221
+Oscilloskop hp 5400b,Skärmen lyser men kan inte mäta,Doesn't work,Instrument,C03,2022_00222
+Fluke 232 voltage kalibrater ,"Okalibrerad
+ 1000v-1mv
+Multimeter I går ej ",Tested,Instrument,A02,2022_00223
+Pkg 010 pirani ,"Cold cathode gauge
+Saknar en fot
+",Untested,Instrument,C03,2022_00224
+LABOR-NETZGERÄT,"Vredet påverkar inte utgången.
+Ger ut ström/Spänning",Doesn't work,Instrument,C03,2022_00225
+Kaffemaskin aroma,Gör kaffe,Lights up,Gerät,C03,2022_00226
+CanoScan Lidze 500F,Scanner,Untested,Miscellaneous,C03,2022_00227
+FLUKE 37 Multimeter,"Handhållen, kräver 9V-batteri.",Tested,Instrument,B03,2022_00228
+Tektronix 2710 spektrumanalysator,10kHz-1.8GHz. Lite glapp i RF in,Tested,Instrument,A02,2022_00229
+Mp 2443 digital dc voltmeter ,"Mät värden stämmer inte överens med verkligheten
+Men all nixirör fungerar i display",Doesn't work,Instrument,B03,2022_00230
+FLUKE 37 Multimeter,"Handhållen, kräver 9V-batteri.",Tested,Instrument,B03,2022_00231
+RF generator,"Philips, PM5324, 100 kHz - 110 MHz",Tested,Instrument,B03,2022_00232
+LFG-1300 Signal generator,"0.1 - 1M Hz
+Läcker likström men går att kompensera med vred.",Tested,Instrument,B03,2022_00233
+oscilloskop 40Mhz,Volts/div glappar,Tested,Instrument,A02,2022_00234
+"Oscilloskop, Tektronix TDS 754C","Skärm kass, extern ok",Doesn't work,Instrument,C03,2022_00235
+ROHDE & SCHWARTZ. AM-FM-MESS-SENDER. Signalgenerator 10kHz-40MHz,"Generatorn fungerar ok. (På den digitala frekvensräknaren saknas dock ett par segment i de sista siffrorna) 
+PS. Kör med extern counter OMR. 20-27 MHZ Går ej, däremot funkar 27-40 MHz. Manual ingår.",Tested,Instrument,A02,2022_00236
+HP 6632A system DC power supply,0-20V 0-5A 100W,Tested,Instrument,A02,2022_00237
+WAVETEK Peak power Meter,"Selftest failed: 4, 6
+Includerar probes
+Från året 2036 enligt intern klocka",Lights up,Instrument,C04,2022_00238
+Oscilloskop 40Mhz,Volts/div glappar,Tested,Instrument,A02,2022_00239
+Tektronix TDS 754C,Går inte igång. Skärm funkar inte,Doesn't work,Instrument,C03,2022_00240
+Oscilloskop tektronix ,"400 MHz, 100 MS/s, TDS 460A four channel digitizing oscilloskop ",Tested,Instrument,A02,2022_00241
+HP 34970A Data Acquisition unit,Saknar insticksmoduler. Startar ej. Eventuellt att säkring är trasig. ,Doesn't work,Instrument,C04,2022_00242
+hg4958-27eg 4.9-5.8GHz 27dBi grid antenna,,Lights up,Radio,B03,2022_00243
+RF generator 1-100MHz,Funkar bra,Tested,Instrument,A02,2022_00244
+Hårdhetsmätare? ernst computest,Inte helt säker på vad det är,Untested,Instrument,C04,2022_00245
+Pulse generator,"Philips PM5716, 1 Hz till 50 MHz, rise time: 6 ns till 0,1 s",Lights up,Instrument,C04,2022_00246
+Rack monterad nätag,"Trefas in, 30V 50A ut",Untested,Gerät,B03,2022_00247
+Hameg 60mhz oscilloscope hm 605,"Y axel fungerar ej
+",Lights up,Instrument,C04,2022_00248
+Höjdmätare,"10um precision, typ 100mm lång",Tested,Gerät,B03,2022_00249
+Axis Communications Q6045-E säkerhetskamera,"PoE input, 360 grader gimble med zoom antagligen",Untested,Video,C04,2022_00250
+HP Bipolär power supply/amplifier,,Doesn't work,Gerät,C04,2022_00251
+Agilent U8032A tripple output DC PSU,"3 kanaler. 0-60V, 3A/5V, 3A. Testad fungerar ok på alla kanaler, men kanal 1 är skum enligt förra ägare.",Tested,Power supply,A02,2022_00252
+Oscilloskop 100Mhz tektronix tas 475,,Tested,Instrument,A02,2022_00253
+HP65IB Test Oscillator,"1Hz-10MHz, -70 till +20dBm",Tested,Instrument,A02,2022_00254
+Rohde und Schwarz Signal Generator,"SMS2 0,1 - 520 MHz",Tested,Instrument,A02,2022_00255
+2st Aktiva PA-högtalare,Tannoy Di5a ,Lights up,Audio,C04,2022_00256
+HP 5384A Frekvensräknare,2 kanaler. 10 Hz-100 MHz och 50-255 MHz. Båda kanaler testade på 1 MHz och visar korrekt.,Tested,Instrument,A02,2022_00257
+Harrison laboratories 865c Power supply ,"Fungerar
+Constant currant constant voltage 
+0-40 v
+0- 500 ma ",Tested,Power supply,B03,2022_00258
+Fluke 8600A Digital Multimeter,,Tested,Instrument,B03,2022_00259
+HP 1670D logikanalysator,Klarar självtest. Komplett med prober.,Lights up,Gerät,C04,2022_00260
+HP 8116 Pulse/Function gen 50 MHz,Startar Ej,Doesn't work,Instrument,C04,2022_00261
+HP204D oscillator,"5Hz-10MHz, -70 till +10dBm",Tested,Instrument,B03,2022_00262
+Oscilloskop Lecroy 9310AM 400Mhz,"Kanal 1 trasig, kommer med servicerapport",Doesn't work,Instrument,B03,2022_00263
+Oscilloskop HP 1740A,"Fungerar, glapp i TIME/DIV vredet",Tested,Instrument,A02,2022_00264
+Nätdel,"0-40V 0,1-1A",Tested,Power supply,B03,2022_00265
+PN 300 Programmable PSU,"2 kanaler 0-30V, 0-2.3A. Båda kanaler testade ok. Enligt förra ägaren glappar kanal B ibland. Klarar självtest.",Tested,Power supply,A02,2022_00266
+Iotech tempscan 1100,"Kunde inte testas
+Error signal ges vid ström sättning ",Lights up,Instrument,C04,2022_00267
+Iotech tempscan 1100,"
+Kunde inte testas
+Error signal ges vid ström sättning ",Lights up,Instrument,C04,2022_00268
+Philips pulse generator,"1 Hz - 50 MHz, risetime 4 ns",Lights up,Instrument,C04,2022_00269
+Oltronix power supply,"10V, 10A
+
+Verkar inte ge någon ström ut",Lights up,Power supply,C04,2022_00270
+Tektronix 2236 2-kanaler 100 MHz,"Båda kanaler är testade på 10 MHz och fungerar var för sig, men knapp för att visa båda kanaler samtidigt glappar.",Other,Instrument,B03,2022_00271
+HP 166oCS logic analyzer,,Lights up,Instrument,B03,2022_00272
+HP7013B pulse generator,Går ej igång. ,Doesn't work,Instrument,C04,2022_00273
+Regulated Power Supply,,Untested,Instrument,C04,2022_00274
+Tektronix 2465 4 kanaler oscilloskåp,Samtliga kanaler testade på 1 MHz och verkar fungera bra. ,Tested,Instrument,A02,2022_00275
+TWT amplifier ,För emc test. Saknar delar,Untested,Radio,A03,2022_00276
+Cambridge Voltmeter,Upp till 750V,Tested,Nostalgia,B03,2022_00277
+Tektronix 2236 Oscilloskåp 2 kanaler 100 MHz ,Båda kanaler testade på 1 MHz.,Tested,Instrument,A02,2022_00278
+strömmätare,,Untested,Nostalgia,C04,2022_00279
+Multimeter som skriver på papper,,Untested,Gerät,C04,2022_00280
+Oltronix 500V 250mA,"""Kalibreras senast -63""",Untested,Power supply,B03,2022_00281
+Hp 8013b puls generator ,"Frekvens 
+1hz - 50 MHz
+Puls bred
+10ns - 1s
+",Tested,Instrument,B03,2022_00282
+Tektronix 2445A oscilloskåp 4 kanaler 150 MHz,Samtliga kanaler testade på 1 MHz. ,Tested,Instrument,A02,2022_00283
+Metcal psu model MX-500P,"230 V, 50 Hz, 0,5 A
+
+",Untested,Power supply,C04,2022_00284
+RC oscillator typ RCO-6,,Untested,Gerät,C04,2022_00285
+Tektronix 2445 oscilloskop ,"Lyser, status lampor funkar, men ingen electron beam.",Doesn't work,Instrument,C04,2022_00286
+Weston Model 796 Megaohmmeter,,Untested,Nostalgia,C04,2022_00287
+Regulated power supply,Oltronix C25-5,Untested,Gerät,C04,2022_00288
+Metcal psu mod.nr RFG-30,"198-264 VAC, 50-60 Hz, 1A",Untested,Power supply,C04,2022_00289
+HP wide range oscillator,"Saknar bnc kontakter, otestad",Doesn't work,Instrument,C04,2022_00290
+SIHIO HOBBIER 105 Enfassvets,,Tested,Gerät,A03,2022_00291
+Hp 8013a pulsgenerator ,"Frekvens 1hz - 50mhz
+Pulsbräd 10ns-1s ",Tested,Instrument,B03,2022_00292
+Stor lampa,Lyser starkt,Lights up,Gerät,B03,2022_00293
+Fluke 8012a digital multimeter ,Trasig ,Doesn't work,Instrument,C04,2022_00294
+Øltronix Power Supply B32-20R,"Testat upp till 22A, beter sig som man ställer in",Tested,Power supply,A03,2022_00295
+Oltronix 18V 5A,,Tested,Power supply,B03,2022_00296
+Trefas Autotransformer,,Untested,Power supply,C04,2022_00297
+Oltronix Power supply,,Tested,Power supply,C04,2022_00298
+Oltronix 40V 11A,Lampan verkar glappa,Tested,Power supply,B03,2022_00299
+Oltronix B8-7 power supply ,Oltronix B8-7 power supply 10V 10A ,Tested,Power supply,C04,2022_00300
+Oltronix 40V 11A,Ger ingen spänning ,Doesn't work,Power supply,C04,2022_00301
+step down variac,,Tested,Power supply,B03,2022_00302
+Oltronix B503,"50V 1,25A",Tested,Power supply,C04,2022_00303
+Oltronix Power Supply,"20 V, 2 A",Tested,Power supply,C04,2022_00304
+Oltronix Power Supply,"10V, 10 A",Tested,Power supply,C04,2022_00305
+Kablar Adams Russel,"2 st kabkar typ 2025-0036
+Serie nummer 0147, 0146
+2st gpc 7-kontakter",Untested,Miscellaneous,B03,2022_00306
+Oltronix B202,"Power supply 16.5V, 1.5A",Tested,Power supply,C04,2022_00307
+Oltronix 50V 1.5A,Ger ingen spänning,Doesn't work,Power supply,C04,2022_00308
+Oltronix B503,"50V 1,25A",Tested,Power supply,C04,2022_00309
+Velleman VTSS100,Varmluftssprutande verktyg med värme och luft reglage ,Tested,Gerät,A03,2022_00310
+Oltronix ,"24 V, 4,5 A",Untested,Power supply,C04,2022_00311
+Breadboard + tillbehör,K and H IDL-800 Digital LAB,Lights up,Gerät,C04,2022_00312
+Weller desoldering station ,Kalle approved. Går upp till 313C,Tested,Gerät,A03,2022_00313
+Metcal soldering system psu,230V 50Hz 1A,Untested,Power supply,C04,2022_00314
+Powerstat variable autotransformer  ,"4.8 kVA 
+Lite trasig i ett output ",Tested,Gerät,C04,2022_00315
+Oltronix ,"10 V, 10 A",Lights up,Power supply,C04,2022_00316
+"5300B measuring system, 5211b dac, 5308a timer/counter",,Untested,Gerät,C04,2022_00317
+Agilent Technologies 1690AD Logic Analyzer,Minimalt fel på omslagsnivåerna liten tidsfördröjning.,Lights up,Instrument,C04,2022_00318
+3COM gigabit switch ,24 portar,Lights up,Gerät,B03,2022_00319
+Netgear ,24portar ,Lights up,Gerät,B03,2022_00320
+Schaffner ESD-simulator ,NSG 435. Modifierad till att använda en XT60-connector. Har manual och förpackning.,Tested,Gerät,A03,2022_00321
+Breadboard + tillbehör,K and H IDL-800 Digital LAB,Lights up,Gerät,C04,2022_00322
+HP procurve 2910L-24g network switch,10 G uplink,Lights up,Computer,A03,2022_00323
+Circuitlab ,KandH IDL-800 Digital Lab ,Lights up,Instrument,C04,2022_00324
+Netgear Switch,1G link,Lights up,Computer,B03,2022_00325
+Netgear Switch,Gigabit,Lights up,Computer,B03,2022_00326
+Breadboard + tillbehör,K and H IDL-800 Digital LAB,Lights up,Gerät,C04,2022_00327
+Robotdammsugare ,Bootloopar och smutsig,Doesn't work,Miscellaneous,C04,2022_00328
+Circuitlab,KandH IDL-800 Digital lab,Lights up,Instrument,C04,2022_00329
+Motordrivna momentnycklar kit,"2x47Ncm, 110(?)Ncm, controller och blandade 25V control boxes",Tested,Instrument,A03,2022_00330
+Hitachi skruvdragare+drivare,"En motordriven momentskruvdragare, med tre inställbara hastigheter ",Tested,Gerät,A03,2022_00331
+Supermicro SSEg48TG4,"3 skadade SFT-portar på framsidan. Upp till fyra 10Gb/s uplinks, 48 RJ45 1Gb/s portar.",Lights up,Gerät,B03,2022_00332
+Weller WR3M med tillbehör,"En pickup, en varmluft, en vinklad liten lödspets, en spetsig konisk lödspets, tre stativ samt en lödsug utan ampul och en ampul utan lödsug.",Tested,Gerät,S01,2022_00333
+Glödlampa,Välkommna till auktionen!,Untested,Gerät,C04,2022_00334
 Mac Mini 500GB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10001
 Mac Mini 1TB,Laddare och tillbehör ingår,Tested,Gerät,B01,2022_10002
 Drake TR7 HF TRX,Modifierad,Untested,Radio,B01,2022_10003
