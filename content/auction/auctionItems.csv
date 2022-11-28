@@ -23,7 +23,6 @@ RF wattmeter, ,Untested,Radio,C01,2022_00023
 Minwa step-conventer,AC 230 -> AC 110 800W,Untested,Gerät,B01,2022_00024
 AC 230V till 110V converter,AC 230 till AC 110 800W Amerkanska uttag,Untested,Gerät,B01,2022_00026
 Leader LBO-522 oscillocope + function gen.,"Oskilloskop med funktionsgenerator. Kanal ett fungerar, fick inte kanal 2 att fungera. Fick inte heller igång funktionsgeneratorn.",Lights up,Instrument,C01,2022_00027
-testobjekt,cringe,Untested,Component,C01,2022_00029
 ATM13 ,Fixed charge condenser sub miniature microphone,Untested,Component,C01,2022_00030
 500W ATX PSU,OCZ500MXSP,Lights up,Power supply,C01,2022_00031
 Universalräknare SC-7203,"Kanal A fungerar, B & C otestad",Tested,Instrument,A01,2022_00032
