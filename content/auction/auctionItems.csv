@@ -47,7 +47,7 @@ Commodore 64, ,Untested,Nostalgia,B01,2022_00050
 Power Amplifier,7.1-7.7 GHz 6 st,Untested,Radio,B01,2022_00051
 Anslut avfuktare,Kompressorn later ok lyser upp annars,Tested,Gerät,B01,2022_00052
 Commodore Datassette,Eject knappen funkar inte,Untested,Gerät,C01,2022_00053
-HP8564E,Spektrumanalysator 30Hz-40GHz. Testad av SA6JKK,Tested,Instrument,A01,2022_00054
+HP8564E,Spektrumanalysator 30Hz-40GHz. Testad av SA6JKK: Selftest pass vid start. 10MHz ref OK. RF in verkar funka till minst 6GHz. Har högtalare + option 006 30Mz min freq,Tested,Instrument,A01,2022_00054
 RG58A-U Triax,Mer än 50m kvar antagligen,Other,Miscellaneous,B01,2022_00055
 Cool låda, ,Untested,Gerät,C01,2022_00056
 Super boxer fan,230-fläkt,Tested,Gerät,C01,2022_00057
