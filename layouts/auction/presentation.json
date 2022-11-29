@@ -8,14 +8,15 @@
       {{ range $i, $r := (after 1 $data) }}
       {{- if ne $i 0 -}}, {{- end -}}
       {
-        "id": "{{ (index $r 5) }}",
-        "title": "{{ (index $r 0) }}",
-        "description": "{{ (index $r 1) }}",
-        "status": "{{ (index $r 2) }}",
-        {{ $imagePath := (printf "/auction/images/%s.jpg" (index $r 5)) }}
-        {{- if (fileExists $imagePath ) -}}
+        "id": {{ (index $r 5) | jsonify }},
+        "title": {{ (index $r 0) | jsonify }},
+        "description": {{ (index $r 1) | jsonify }},
+        "category": {{ (index $r 3) | jsonify }},
+        "status": {{ (index $r 2) | jsonify }}
+        {{ $imagePath := (printf "auction/images/%s.jpg" (index $r 5)) }} {{/* https://discourse.gohugo.io/t/resources-get-throws-and-has-no-way-to-check-if-the-item-exists/18952/2 :( */}}
+        {{- if (fileExists (printf "assets/%s" $imagePath ) ) -}}
             {{ $image := (resources.Get $imagePath ).Resize "1024x" }}
-            "image": "{{ $image.Permalink }}"
+            , "image": "{{ $image.Permalink }}"
         {{ end }}
       }
       {{ end }}
