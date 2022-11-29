@@ -23,7 +23,9 @@ jQuery(document).ready(function(){
            $('#presentation-item-title').text(item.title);
            $('#presentation-item-description').text(item.description);
            $('#presentation-item-img').attr("src",item.image);
+           $('#presentation-item-category').text(item.category);
            $('#presentation-item-status').text(item.status);
+           $('#presentation-item-id').text(item.id);
            $('#presentation-item').show();
          }
 

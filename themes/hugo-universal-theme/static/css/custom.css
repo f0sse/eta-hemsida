@@ -145,10 +145,29 @@ img.feature-image {
 
 .presentation-item-status {
   position: fixed;
-  bottom: 0;
+  bottom: 2em;
   left: 0;
   font-size: 2em;
   padding: 1em;
+  margin: 0;
+}
+
+.presentation-item-category {
+  position: fixed;
+  bottom: 4em;
+  left: 0;
+  font-size: 2em;
+  padding: 1em;
+  margin: 0;
+}
+
+.presentation-item-id {
+  position: fixed;
+  font-style: italic;
+  bottom: 0;
+  left: 0;
+  font-size: 1.5em;
+  padding: 1.5em;
   margin: 0;
 }
 
