@@ -21,10 +21,10 @@ This will create a local server which by default is available at port 1313. Chec
 To deploy and publish the site run:
 
 ```bash
-$ ./deploy.sh
+$ ./publish.sh
 ```
 
-This will execute a bash scritp that first will remove any old local build of the website and then regenerate the site. Depending on how close it is to the auction this may take some time if the auction catalogue contains a lot of images. Then the "deploy" branch will be regenerated as an orpahn without history and the generated website will be added to the branch. Lastly the deploy branch will be forced updated at the origin.
+This will execute a bash script that first will remove any old local build of the website and then regenerate the site. Depending on how close it is to the auction this may take some time if the auction catalogue contains a lot of images. Then the "deploy" branch will be regenerated as an orpahn without history and the generated website will be added to the branch. Lastly the deploy branch will be forced updated at the origin.
 
 There is a webhook that is integrated with the student unions server that will be trigged whenever a new commit is made. This will make the server copy the new website.
 
